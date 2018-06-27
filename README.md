@@ -1,2 +1,2 @@
 # test-go-deps
-Testing go dependencies
+Testing go dependencies.
